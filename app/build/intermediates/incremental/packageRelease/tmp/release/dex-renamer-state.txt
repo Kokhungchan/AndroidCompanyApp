@@ -1,0 +1,4 @@
+#Wed Mar 27 20:56:54 GMT 2019
+base.0=/Users/kokhungchan/Documents/MobileApplication/app/build/intermediates/dex/release/mergeDexRelease/out
+path.0=classes.dex
+renamed.0=classes.dex

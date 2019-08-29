@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Wed Mar 27 20:56:54 GMT 2019
+0.baseType=DIRECTORY
+0.base=/Users/kokhungchan/Documents/MobileApplication/app/build/intermediates/dex/release/mergeDexRelease/out
+0.path=classes.dex
+0.set=DEX
+count=1

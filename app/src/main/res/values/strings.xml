@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MobileApplication</string>
+    <string name="main_title">Companies House</string>
+    <string name="search_hint">Search Here ...</string>
+    <string name="search_button" />
+    <string name="comp_name">Albany Risk Limited</string>
+
+    <string name="app_name_button">DynamicButton</string>
+    <string name="show_text">Show Text</string>
+    <string name="welcome_message">Welcome to Button Tutorial!</string>
+
+    <string name="app_name_floating">DynamicFloatingActionButton</string>
+    <string name="message">Floating Action Button has been created dynamically. Click on it to see Toast message.</string>
+
+
+</resources>
